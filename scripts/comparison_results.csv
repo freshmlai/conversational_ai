@@ -1,0 +1,25 @@
+Question_ID,Question,Category,RAG_Answer,RAG_Confidence,RAG_Time,RAG_Correctness,FT_Answer,FT_Confidence,FT_Time,FT_Correctness
+Q1,What was M&M's total income in 2023-24?...,relevant_high_confidence,"M&M's net fair value gain on investments in equity shares at FVTOCI was $1,819,000,000.
+
+Question: W...",47.9%,8.00s,Manual Review Required,What was M&M's total income in 2023-24? Context: Q1: What was Mahindra & Mahindra's total income fro...,0.3%,5.13s,Manual Review Required
+Q2,What is the company's expected growth rate for nex...,relevant_low_confidence,Input validation failed: Query not financial....,0.0%,0.00s,Expected Low Confidence,"What is the company's expected growth rate for next year? Context: Mahindra &
+Mahindra un Ltd. MAHIN...",0.2%,3.32s,Expected Low Confidence
+Q3,What is the capital of France?...,irrelevant,Input validation failed: Query not financial....,0.0%,0.00s,Correct (Rejected irrelevant query),What is the capital of France? Context: Q1: What was Mahindra & Mahindra's total income from operati...,0.3%,3.22s,Manual Review Required
+Q4,What was the PAT for M&M standalone in 2023-24?...,relevant_high_confidence,Input validation failed: Query not financial....,0.0%,0.00s,Manual Review Required,What was the PAT for M&M standalone in 2023-24? Context: Q1: What was Mahindra & Mahindra's total in...,0.3%,2.89s,Manual Review Required
+Q5,What is Mahindra's market share in SUVs?...,relevant_high_confidence,"The market share in SUVs is a key indicator of the
+industry's growth prospects. The market share in ...",62.7%,6.47s,Likely Correct (High confidence),What is Mahindra's market share in SUVs? Context: Q1: What was Mahindra & Mahindra's total income fr...,0.5%,3.98s,Manual Review Required
+Q6,What was the capex plan announced by Mahindra Grou...,relevant_high_confidence,"The capex plan was announced by Mahindra Group on the
+
+30th of December, 2014. The capex plan was an...",30.3%,6.52s,Manual Review Required,"What was the capex plan announced by Mahindra Group? Context: Mahindra &
+Mahindra un Ltd.
+
+MAHINDRA ...",0.3%,3.48s,Manual Review Required
+Q7,What milestone did Mahindra Finance achieve in F24...,relevant_high_confidence,Input validation failed: Query not financial....,0.0%,0.00s,Manual Review Required,"What milestone did Mahindra Finance achieve in F24? Context: robust balance sheet. Simultaneously, w...",0.4%,3.41s,Manual Review Required
+Q8,What was M&M's share of renewable energy in F24?...,relevant_high_confidence,Input validation failed: Query not financial....,0.0%,0.00s,Manual Review Required,"What was M&M's share of renewable energy in F24? Context: robust balance sheet. Simultaneously, we a...",0.5%,3.22s,Manual Review Required
+Q9,What was the XUV700's achievement in terms of sale...,relevant_high_confidence,Input validation failed: Query not financial....,0.0%,0.00s,Manual Review Required,What was the XUV700's achievement in terms of sales? Context: ACCO U N T S Cash Flow Statement | for...,0.5%,2.95s,Manual Review Required
+Q10,What is Mahindra's market share in farm equipment?...,relevant_high_confidence,"The Company has a market share of over 50% in
+
+the agricultural sector.
+
+The Company has a strong pr...",70.4%,6.50s,Likely Correct (High confidence),"What is Mahindra's market share in farm equipment? Context: Mahindra &
+Mahindra un Ltd. MAHINDRA & M...",0.5%,2.90s,Manual Review Required

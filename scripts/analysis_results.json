@@ -1,0 +1,20 @@
+{
+  "average_confidence": {
+    "RAG": 56.8451809016141,
+    "Fine-Tuned": 0.5368720943277533
+  },
+  "average_response_time": {
+    "RAG": 7.2850822535428135,
+    "Fine-Tuned": 6.574266520413485
+  },
+  "correctness_by_category": {
+    "RAG": {
+      "relevant_high_confidence": 0,
+      "": 0
+    },
+    "Fine-Tuned": {
+      "relevant_high_confidence": 0,
+      "": 0
+    }
+  }
+}

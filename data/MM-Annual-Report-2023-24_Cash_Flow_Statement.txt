@@ -1,0 +1,210 @@
+ACCO U N T S Cash Flow Statement | for the year ended 31st March, Cash Flow Statement (contd.)
+Rupees crores A. C. Proceeds from issue of equity instruments..................................................................................................................................................................... — . Proceeds from borrowings........................................................................................................................................................................................................... . — Repayment of borrowings............................................................................................................................................................................................................. (,.) (,.) Repayment of lease liabilities (including interest)....................................................................................................................................................... (.) (.) Dividends paid (including payment of unclaimed dividend) ................................................................................................................................ (,.) (,.) CASH FLOW FROM FINANCING ACTIVITIES: ,. ,. Depreciation, amortisation and impairment expense........................................................................................................................................... ,. ,. (Gain) on foreign exchange fluctuations (net) ........................................................................................................................................................ (.) (.) Dividend on investment and interest income ......................................................................................................................................................... (,.) (,.) (Gain) arising on financial assets / liabilities measured at fair value ..................................................................................................... (.) (.) (Gain) arising on sale of non-current investments .............................................................................................................................................. (.) — Interest, commitment and finance charges paid........................................................................................................................................................... (.) (.) Impairment provisions for non-current investment (net) ............................................................................................................................... (.) — NET CASH FLOW USED IN FINANCING ACTIVITIES ............................................................................................................................................ (,.) (,.) Finance costs .................................................................................................................................................................................................................................. . . NET INCREASE IN CASH AND CASH EQUIVALENTS (A+B+C)...................................................................................................................... . . Equity-settled share-based payment expenses ..................................................................................................................................................... . . (Gain) on sale of assets and business transfer (refer note ) ................................................................................................................. (.) — Cash and cash equivalents at the beginning of the year............................................................................................................................. ,. . (Gain) on property, plant and equipment sold / scrapped / written off (net) .................................................................................. (.) (.) Unrealised gain on foreign currency cash and cash equivalents ................................................................................................................... . . (.) ,. Cash and cash equivalents at the end of the year [refer note ] .................................................................................................. ,. ,. ,. ,. Trade and other receivables................................................................................................................................................................................................... (.) (,.) Inventories.......................................................................................................................................................................................................................................... (.) (,.) Trade and other payables and provisions..................................................................................................................................................................... ,. ,. . . Cash generated from operations............................................................................................................................................................................................. ,. ,. Income taxes paid (net) ................................................................................................................................................................................................................ (,.) (,.) NET CASH FLOW FROM OPERATING ACTIVITIES.................................................................................................................................................. ,. ,. Adjustments for: Operating profit before working capital changes.........................................................................................................................................................
+Changes in: B. Rupees crores CASH FLOW FROM OPERATING ACTIVITIES:
+Profit before exceptional items and tax............................................................................................................................................................................. Note:
+The above Cash Flow Statement has been prepared under the “indirect method” as set out in ‘Indian Accounting Standard (Ind AS) - Statement of Cash Flows’.
+The accompanying notes to are an integral part of the Financial Statements In terms of our report attached.
+For B S R & Co. LLP
+Chartered Accountants
+Firm’s Registration No: 101248W/W- Payments to acquire property, plant and equipment and intangible assets ......................................................................................... (,.) (,.) Venkataramanan Vishwanath
+Partner
+Membership No: Proceeds from sale of property, plant and equipment and intangible assets ...................................................................................... . . Bengaluru, 16th May, Payments to acquire non-current investments - subsidiaries ........................................................................................................................... (,.) (,.) Payments to acquire non-current investments - joint ventures ..................................................................................................................... (.) (.) Payments to acquire other non-current investments ............................................................................................................................................ (.) — Proceeds from sale of other non current investments ........................................................................................................................................ . . Payments to acquire current investments ..................................................................................................................................................................... (,.) (,.) Proceeds from sale of current investments .................................................................................................................................................................. ,. ,. Proceeds from sale of assets and business transfer (refer note ) ......................................................................................................... . — CASH FLOW FROM INVESTING ACTIVITIES: Net changes in earmarked balances and margin accounts with banks .................................................................................................... . (.) Bank deposits placed ..................................................................................................................................................................................................................... (,.) (,.) Bank deposits matured ................................................................................................................................................................................................................. ,. ,. . . Interest received ...................................................................................................................................................................................................................... Dividends received ........................................................................................................................................................................................................................... ,. ,. Receivables / Loans / Inter-corporate deposits given ............................................................................................................................................ (,.) (,.) Receivables / Loans / Inter-corporate deposits refunded .................................................................................................................................... ,. ,. Proceeds from sale of non current investments in subsidiaries, associates, joint ventures ....................................................... . ,. NET CASH FLOW FROM INVESTING ACTIVITIES.................................................................................................................................................... (,.) (,.) For Mahindra & Mahindra Limited
+Directors:
+Vikram Singh Mehta (DIN - )
+T. N. Manoharan (DIN - )
+Haigreve Khaitan (DIN - )
+Shikha Sharma (DIN - )
+Nisaba Godrej (DIN - )
+Muthiah Murugappan (DIN - ) Anand G. Mahindra
+Anish Shah
+Rajesh Jejurikar
+Manoj Bhat
+Narayan Shankar Chairman (DIN - )
+Managing Director and CEO (DIN - )
+Executive Director and CEO (Auto and Farm Sector)
+(DIN - )
+Group Chief Financial Officer
+Company Secretary (ACS No. ) Mumbai, 16th May, MAHINDRA & MAHINDRA LTD.
+Integrated Annual Report - STA N DA L O N E
+ACCO U N T S Notes forming part of the Financial Statements | for the period ended 31st March, . . The management’s estimate of useful lives are in accordance with Schedule II to the Companies Act, , other than the following asset classes,
+based on the Company’s expected usage pattern supported by technical assessment: General Information Mahindra & Mahindra Limited (‘the Company’) is a limited company incorporated in India. The address of its registered office and principal activities of the
+Company are disclosed in the introduction to the Annual Report. Material accounting policies (contd.) The Ordinary (Equity) shares of the Company are listed on the National Stock Exchange of India Limited (“NSE”) and BSE Limited (“BSE”) in India. The
+Global Depository Receipts (GDRs) of the Company are listed on the Luxembourg Stock Exchange and are also admitted for trading on International
+Order Book (IOB) of the London Stock Exchange.
+. Material accounting policies
+(a) Statement of compliance and basis of preparation and presentation These standalone or separate financial statements of the Company have been prepared in accordance with Indian Accounting Standards as per the
+Companies (Indian Accounting Standards) Rules, as amended and notified under Section of the Companies Act, (the ‘Act’) and other
+relevant provisions of the Act. These standalone or separate financial statements were approved by the Company’s Board of Directors and authorised for issue on 16th May, .
+(b) Basis of measurement The standalone financial statements have been prepared on the historical cost basis except for certain financial instruments which are measured
+at fair values in accordance with Ind AS.
+(c) Measurement of fair values A number of Company’s accounting policies and disclosures require the measurement of fair values, for both financial and non-financial assets and
+liabilities. The Company has established policies and procedures with respect to the measurement of fair values. (f) Asset Class Useful lives (i) Certain items of Plant and Equipment - years as the case may be. (ii) Buildings (Roads) years (iii) Vehicles years Intangible assets
+Intangible assets under development The Company expenses costs incurred during research phase to profit or loss in the year in which they are incurred. Development phase expenses
+are initially recognised as intangible assets under development until the development phase is complete, upon which the amount is capitalised as
+intangible asset. Intangible assets Intangible assets are initially recognised at cost. Subsequent to initial recognition, intangible assets with definite useful lives are amortised on a straight line basis so as to reflect the pattern in which
+the asset’s economic benefits are consumed and are reported at cost less accumulated amortisation and accumulated impairment losses, if any. The intangible assets are amortised over the estimated period of benefit as below:
+Asset Class Useful lives Fair values are categorised into different levels in a fair value hierarchy based on the inputs used in the valuation techniques as follows: (i) Development expenditure - years — (ii) Brand licences years —	Level : Inputs other than quoted prices included in Level that are observable for the asset or liability, either directly or indirectly; — (iii) Computer software years (iv) Others (excluding TDRs) years (d) Level : Quoted prices (unadjusted) in active markets for identical assets and liabilities;
+Level : Inputs for the asset or liability that are not based on observable market data (unobservable inputs). Use of estimates and judgments The preparation of financial statements in conformity with Ind AS requires management to make judgments, estimates and assumptions, that affect
+the application of accounting policies and the reported amounts of assets, liabilities, income and expenses at the date of these financial statements
+ACCO U N T S Consolidated Statement of Changes in Equity | for the year ended 31st March, (Continued) Consolidated Cash Flow Statement | for the year ended 31st March, (C) Other reserves Rupees crores Rupees crores
+Particulars Capital
+Redemption
+Reserve Capital
+Reserve Debenture
+Redemption
+Reserve General
+Reserve Statutory
+Reserve (E) Description of the nature and purpose of reserves
+(i) Capital reserve Capital reserve represents receipt of Government grants from a package of incentive given by Government for setting up / extension of plants in
+specified areas.
+(ii) Capital reserve on consolidation Gain on bargain purchase, i.e., excess of fair value of net assets acquired over the fair value of consideration in a business combination or on
+acquisition of interest in associate is recognised as capital reserve on consolidation.
+(iii) Securities premium Securities premium is used to record the premium on issue of shares. The fair value of employee stock options is recognised in securities premium
+once the shares have been allotted on exercise of the options.
+(iv) General reserve The general reserve comprises of transfer of profits from retained earnings for appropriation purposes. The reserve can be distributed / utilised by
+the Company in accordance with the Companies Act, .
+(v) Retained earnings Retained earnings comprises of accumulated balance of profits/(losses) of current and prior years including transfers made to / from other reserves
+from time to time. The reserve can be utilised or distributed by the Company in accordance with the provisions of the Companies Act, (vi) Debenture redemption reserve Debenture redemption reserve is a statutory reserve (as per Companies Act, ) created out of profits of the company available for payment of dividend
+for the purpose of redemption of debentures issued by the Company. On completion of redemption, the reserve is transferred to retained earnings.
+(vii) Share option outstanding account The share option outstanding account represents reserve in respect of equity settled share options granted to the Company’s employees in
+pursuance of the employee stock option plan.
+(viii) Statutory reserve Statutory reserve has been created pursuant to section - IC of the RBI Act, and section 29C of the National Housing Act, .
+(ix) Capital redemption reserve Capital redemption reserve was created against redemption of preference shares.
+The accompanying notes to are an integral part of the Consolidated Financial Statements For Mahindra & Mahindra Limited Directors:
+For B S R & Co. LLP
+Vikram Singh Mehta (DIN - )
+Chartered Accountants
+T. N. Manoharan (DIN - )
+Firm’s Registration No. : 101248W/W-
+Haigreve Khaitan (DIN - )
+Shikha Sharma (DIN - )
+Nisaba Godrej (DIN - )
+Venkataramanan Vishwanath
+Muthiah Murugappan (DIN - )
+Partner
+Membership No : Bengaluru, 16th May, Anand G. Mahindra
+Anish Shah
+Rajesh Jejurikar
+Manoj Bhat
+Narayan Shankar ,. ,. Depreciation, amortisation and impairment expense........................................................................................................................................... ,. ,. (Gain)/loss on foreign exchange fluctuation and other adjustments (net) ........................................................................................ (.) . Loss on fair valuation of compulsorily convertible preference shares ................................................................................................. . — Income from investments related to subsidiaries, associates and joint ventures ......................................................................... (.) (.) Loss from investments related to subsidiaries, associates and joint ventures ............................................................................... . . Dividend on investments and interest income [excluding Rs. ,. crores (: Rs. ,. crores)
+in respect of financial services business] ................................................................................................................................................................... (.) (.) Finance costs [excluding Rs. ,. crores (: Rs. ,. crores) in respect of financial
+services business] ...................................................................................................................................................................................................................... . . Equity-settled share-based payment expenses ..................................................................................................................................................... . . Gain on financial instruments measured at fair value (net) ......................................................................................................................... (,.) (.) (Gain)/Loss on property, plant and equipment sold / scrapped / written off (net) ...................................................................... (.) (.) ,. ,. ,. ,. Trade and other receivables................................................................................................................................................................................................... (,.) (,.) Financial services receivable.................................................................................................................................................................................................. (,.) (,.) Inventories.......................................................................................................................................................................................................................................... (,.) (,.) Trade and other payables and provisions..................................................................................................................................................................... ,. ,. (,.) (,.) Cash used in operations ............................................................................................................................................................................................................... (,.) (,.) Income taxes paid (net) ................................................................................................................................................................................................................ (,.) (,.) Net cash flow used in operating activities .............................................................................................................................................................. (,.) (,.) Payment to acquire property, plant & equipment and other intangible assets..................................................................................... (,.) (,.) Proceeds from sale of property, plant & equipment and other intangible assets............................................................................... . . Payment to acquire investments............................................................................................................................................................................................. (,.) (,.) Proceeds from sale of investments....................................................................................................................................................................................... ,. ,. Interest received (excluding financial services business)........................................................................................................................................ . . Dividends received from joint ventures and associates.......................................................................................................................................... ,. ,. Dividends received from others................................................................................................................................................................................................ . . Proceeds from buy back of shares/capital reduction by joint venture ...................................................................................................... . . Bank deposits placed....................................................................................................................................................................................................................... (,.) (,.) Bank deposits matured................................................................................................................................................................................................................... ,. ,. Total As at 1st April, .......................................................
+.
+.
+.
+,.
+,.
+,.
+Transfer from retained earnings................................................
+—
+—
+—
+—
+.
+.
+On account of employee stock options lapsed..............
+—
+—
+—
+.
+—
+.
+As at 31st March, .................................................
+.
+.
+.
+,.
+,.
+,.
+As at 1st April, .......................................................
+.
+.
+.
+,.
+,.
+,.
+Transfer from retained earnings................................................
+—
+—
+—
+—
+.
+.
+On disposal of subsidiaries during the year ...................
+—
+—
+(.)
+—
+—
+(.)
+On account of employee stock options lapsed..............
+—
+—
+—
+.
+—
+.
+As at 31st March, .................................................
+.
+.
+.
+,.
+,.
+,.
+(D) Notes
+a)	The Company has reduced the Share capital by Rs. . crores (: Rs. . crores) and Securities premium by Rs. . crores
+(: Rs. . crores) for the ,,, shares of Rs. each (: ,,, shares of Rs. each) held by the M&M ESOP Trust pending
+transfer to the eligible employees.
+b)	The Company has also reduced the Share capital by Rs. . crores (: Rs. . crores) and Retained earnings by Rs. ,. crores
+(: Rs. ,. crores) for ,,, shares of Rs. each (: ,,, shares of Rs. each) held by M&M Benefit Trust.
+c)	The share capital of the Company has also been reduced and the Securities premium increased by Rs. . crores (: Rs. . crores) for
+,,, bonus shares of Rs. each (: ,,, bonus shares of Rs. each) issued by the Company to M&M ESOP Trust and for ,,,
+bonus shares of Rs. each (: ,,, bonus shares of Rs. each) issued by the Company to M&M Benefit Trust in December, . In terms of our report attached. Chairman (DIN - )
+Managing Director and CEO (DIN - )
+Executive Director and CEO (Auto and Farm Sector)
+(DIN - )
+Group Chief Financial Officer
+Company Secretary (ACS No. ) Mumbai, 16th May, A. CASH FLOW FROM OPERATING ACTIVITIES:
+Profit Before Exceptional Items, share of profit of associates and joint ventures and tax...........................................................
+Adjustments for: Operating Profit before working capital changes........................................................................................................................................................
+Changes in: B. CASH FLOW FROM INVESTING ACTIVITIES: MAHINDRA & MAHINDRA LTD.
+Integrated Annual Report - CO N S O L I DAT E D
+ACCO U N T S Consolidated Cash Flow Statement | for the year ended 31st March, (Continued) Notes to the Consolidated Financial Statements | for the year ended 31st March, Rupees crores C. Changes in earmarked and margin account with banks (net) .......................................................................................................................... . . Receivables / Inter corporate deposits placed............................................................................................................................................................... (.) (.) Receivables / Inter corporate deposits refunded ...................................................................................................................................................... . . Purchase of investment in joint ventures and associates ................................................................................................................................... (.) (.) Purchase consideration paid for acquisition of subsidiaries net of cash acquired............................................................................... (.) (.) Consideration received on disposal of subsidiaries..................................................................................................................................................... . . Consideration received on disposal (including partial sale of investment) of associates and joint ventures................... . ,. Net cash flow used in investing activities ............................................................................................................................................................... (,.) (,.) CASH FLOW FROM FINANCING ACTIVITIES: . General information Mahindra & Mahindra Limited (‘the Company’) is a limited company incorporated in India. The address of its registered office and principal activities of the
+Company are disclosed in the introduction to the Annual Report. The Ordinary (Equity) shares of the Company are listed on the National Stock Exchange of India Limited (“NSE”) and BSE Limited (“BSE”) in India. The
+Global Depository Receipts (GDRs) of the Company are listed on the Luxembourg Stock Exchange and are also admitted for trading on International
+Order Book (IOB) of London Stock Exchange.
+. Material Accounting Policies
+(a) Statement of compliance and basis of preparation and presentation These consolidated financial statements of Mahindra & Mahindra Limited and its subsidiaries (‘the Group’ or ‘Mahindra Group’) have been prepared
+in accordance with Indian Accounting Standards as per the Companies (Indian Accounting Standards) Rules, as amended and notified under
+Section of the Companies Act, (the ‘Act’) and other relevant provisions of the Act. (b) These consolidated financial statements were approved by the Company’s Board of Directors and authorised for issue on 16th May, .
+Basis of measurement The consolidated financial statements have been prepared on the historical cost basis except for certain financial instruments that are measured
+at fair values in accordance with Ind AS. Proceeds from issue of shares to employees by ESOP trust............................................................................................................................. . . Proceeds from borrowings ......................................................................................................................................................................................................... ,. ,. Repayments of borrowings ........................................................................................................................................................................................................ (,.) (,.) Net change in loans repayable on demand and cash credit .............................................................................................................................. (.) . The Group assesses if it has acquired control, joint control or significant influence over an investee based on shareholding, voting power, composition
+of board, rights under shareholder agreements and other facts and circumstances of each case which involves use of judgment. Proceeds from issue of compulsorily convertible preference shares ......................................................................................................... ,. . Repayment of lease liabilities (including interest) .................................................................................................................................................... (.) (.) Dividends paid including payment of unclaimed dividends ................................................................................................................................. (,.) (,.) Dividend paid to non-controlling interests ..................................................................................................................................................................... (.) (.) Transactions with non-controlling interests .................................................................................................................................................................. (.) (.) Interest, commitment and finance charges paid (excluding financial services business) .............................................................. (.) (.) Net cash flow from financing activities ..................................................................................................................................................................... ,. ,. NET INCREASE IN CASH AND CASH EQUIVALENTS (A+B+C) .................................................................................................................... ,. . Fair values are categorised into different levels in a fair value hierarchy based on the inputs used in the valuation techniques as follows:
+— Level : Quoted prices (unadjusted) in active markets for identical assets and liabilities. (c) Basis of consolidation
+The consolidated financial statements incorporate the financial statements of the Company and its subsidiaries. Subsidiaries are consolidated on a line-by-line basis from the date the control is transferred to the Group. Investment in associates and joint
+ventures are accounted for using the equity method of accounting, after initially being recognised at cost. These financial statements are prepared
+by applying uniform accounting policies in use at the Group. Changes in the Group’s interest in subsidiaries that do not result in a loss of control are accounted as equity transactions. In case of loss of control
+of a subsidiary, the gain or loss is recognised in profit or loss. The fair value of any investment retained at the date when control is lost is regarded
+as the cost on initial recognition of investment in an associate or jointly controlled entity or as the fair value on initial recognition of investment
+classified as a financial asset, as the case may be.
+(d) Measurement of fair values A number of Group’s accounting policies and disclosures require the measurement of fair values, for both financial and non-financial assets and
+liabilities. The Group has established policies and procedures with respect to the measurement of fair values. Cash and cash equivalents at the beginning of the year............................................................................................................................. ,. ,. Cash and cash equivalents related to disposal of subsidiaries.......................................................................................................................... (.) (.) — Level : Inputs other than quoted prices included in Level that are observable for the asset or liability, either directly or indirectly. Unrealised (loss) /gain on foreign currency cash and cash equivalents (net) ....................................................................................... (.) . — Level : Inputs for the asset or liability that are not based on observable market data (unobservable inputs). Cash and cash equivalents at the end of the year (Refer note )................................................................................................... ,. ,. Notes to the Consolidated Cash Flow Statement for the year ended 31st March, .
+The above Consolidated Cash Flow Statement has been prepared under the ‘indirect method’ as set out in Ind AS -Statement of Cash Flows. Bengaluru, May, th Anand G. Mahindra
+Anish Shah
+Rajesh Jejurikar
+Manoj Bhat
+Narayan Shankar The preparation of financial statements in conformity with Ind AS requires management to make judgments, estimates and assumptions, that affect
+the application of accounting policies and the reported amounts of assets, liabilities, income and expenses at the date of these financial statements
+and the reported amounts of revenues and expenses for the years presented. Actual results may differ from these estimates. Key sources of estimation uncertainty, critical judgments and assumptions at the date of financial statements which may cause a material adjustment
+to the carrying amounts of assets and liabilities within the next financial year, are in respect of the below: For Mahindra & Mahindra Limited Directors:
+For B S R & Co. LLP
+Vikram Singh Mehta (DIN - )
+Chartered Accountants
+T. N. Manoharan (DIN - )
+Firm’s Registration No : 101248W/W-
+Haigreve Khaitan (DIN - )
+Shikha Sharma (DIN - )
+Nisaba Godrej (DIN - )
+Venkataramanan Vishwanath
+Muthiah Murugappan (DIN - )
+Partner
